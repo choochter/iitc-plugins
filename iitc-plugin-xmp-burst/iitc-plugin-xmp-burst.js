@@ -1,6 +1,7 @@
 // ==UserScript==
 // @id           iitc-plugin-xmp-burst
 // @name         IITC plugin:XMP Burst
+// @author       Choochter/russkull
 // @category     Layer
 // @version      0.0.0.1
 // @namespace    choochter-iitc-plugin-xmp-burst

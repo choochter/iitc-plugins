@@ -1,6 +1,7 @@
 // ==UserScript==
 // @id           iitc-plugin-highlight-ap
 // @name         IITC plugin: AP Portal Highlighter
+// @author       Choochter/russkull
 // @category     Highlighter
 // @version      0.0.0.1
 // @namespace    choochter-iitc-plugin-highlight-ap
